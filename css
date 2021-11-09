@@ -1,0 +1,6 @@
+[tid="meta.rows"],[tid="meta.columns"] {display:none;}
+.cell.ng-scope.null-value {background-color:rgba(0,0,0,0); color: rgba(0,0,0,0); font-size:0px;}
+.qv-object-qlik-multi-kpi { display:none; } .qv-mode-edit .qv-object-qlik-multi-kpi { display:flex; }
+.qv-object-SimpleFieldSelect .select2-container--default .select2-selection--single .select2-selection__placeholder {color: #727070;}
+#nrXjyun_content  {padding: 4px; height: 18px; width: 250px; border: 1px solid #aaaaaa; border-radius: 5px;}
+.lui-caret:after {padding-top: 4px; height: 0.5px; margin-left: 1000%;}
